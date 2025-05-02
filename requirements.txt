@@ -1,0 +1,7 @@
+pefile
+psutil
+watchdog
+requests
+flask
+rich
+matplotlib
